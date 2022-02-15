@@ -23,6 +23,7 @@ body::before {
   content: "";
   position: fixed;
   background: #040404 url("../img/image3.jpg") top right no-repeat;
+  filter: brightness(60%);
   background-size: cover;
   left: 0;
   right: 0;
